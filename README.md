@@ -1,2 +1,2 @@
 # example
-An example of repository to work in the workshop.
+An example of repository to work during the workshop.
